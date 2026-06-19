@@ -1,4 +1,4 @@
-name = "sub-one"
+name = "subone"
 pages_build_output_dir = "dist"
 # main = "functions/[[path]].js"
 compatibility_date = "2024-06-13"
